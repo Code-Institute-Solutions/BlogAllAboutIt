@@ -1,5 +1,5 @@
 Django~=2.2.25
-Pillow~=6.2.2
+pillow>=9.2.0
 pytz~=2018.7
 django-forms-bootstrap~=3.1.0
 gunicorn~=19.7.1
